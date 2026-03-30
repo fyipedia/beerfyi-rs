@@ -1,6 +1,6 @@
 [package]
 name = "beerfyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Beer style guide with BJCP styles, hops, malts, and yeast — async API client for beerfyi.com."
